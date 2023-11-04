@@ -5,18 +5,18 @@
     <color name="text">#000000</color>
 
     <color name="paymentAwait">#E08f04</color>
-    <color name="paymentDone">#99CC00</color>
+    <color name="paymentDone">#27b627</color>
 
     <color name="btcLogo">#E08f04</color>
 
     <color name="paymentPassiveBorder">#CCCCCC</color>
 
-    <color name="cardBitcoinSigning">#CC9900</color>
+    <color name="cardBitcoinSigning">#D8AB23</color>
     <color name="cardBitcoinHardware">#69BDE2</color>
-    <color name="cardBitcoinMixed">#9A9A9A</color>
+    <color name="cardBitcoinMixed">#CCCCCC</color>
 
     <color name="buttonGreenRipple">#8BD670</color>
-    <color name="buttonGreenBorder">#5B8F36</color>
+    <color name="buttonGreenBorder">#27b627</color>
     <color name="buttonGreenPale">#33517D2B</color>
     <color name="buttonGreen">#517D2B</color>
 
@@ -27,7 +27,7 @@
     <color name="buttonGrayRipple">#868899</color>
     <color name="buttonGrayBorder">#494949</color>
 
-    <color name="cardOutText">#2BA22B</color>
+    <color name="cardOutText">#27b627</color>
     <color name="cardZeroText">#BBBBBB</color>
     <color name="watchCardText">#737eaa</color>
     <color name="signCardZeroText">#B38722</color>
