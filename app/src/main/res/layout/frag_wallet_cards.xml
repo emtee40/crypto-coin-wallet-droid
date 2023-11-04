@@ -35,10 +35,10 @@
                 android:text="OFFLINE"/>
 
             <com.danilomendes.progressbar.InvertedTextProgressbar
-                card_view:text_inverted_color="@android:color/black"
+                card_view:text_inverted_color="@android:color/white"
                 android:background="@drawable/border_yellow"
                 android:layout_toStartOf="@id/torIndicator"
-                card_view:text_color="@android:color/white"
+                card_view:text_color="@android:color/black"
                 android:layout_centerVertical="true"
                 android:id="@+id/chainSyncIndicator"
                 android:src="@color/paymentAwait"
