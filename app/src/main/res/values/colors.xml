@@ -2,7 +2,6 @@
 <resources>
     <color name="bg">#F0F0F5</color>
     <color name="colorAccent">#222222</color>
-    <color name="text">#000000</color>
 
     <color name="paymentAwait">#E08f04</color>
     <color name="paymentDone">#27b627</color>
