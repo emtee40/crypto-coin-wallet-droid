@@ -7,7 +7,7 @@
     <color name="paymentDone">#27b627</color>
     <color name="btcLogo">#E08f04</color>
 
-    <color name="paymentPassiveBorder">#EEEEEE</color>
+    <color name="paymentPassiveBorder">#DDDDDD</color>
 
     <color name="cardBitcoinSigning">#916c20</color>
     <color name="cardBitcoinHardware">#5b679c</color>

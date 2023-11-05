@@ -44,7 +44,6 @@
             android:layout_marginBottom="-1dp"/>
 
         <androidx.cardview.widget.CardView
-            card_view:cardCornerRadius="@dimen/corner_radius"
             android:id="@+id/paymentCardContainer"
             style="@style/Card">
 
