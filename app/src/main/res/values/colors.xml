@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="bg">#F0F0F5</color>
+    <color name="bg">#F9F5FA</color>
     <color name="colorAccent">#111111</color>
 
     <color name="paymentAwait">#E08f04</color>
     <color name="paymentDone">#27b627</color>
     <color name="btcLogo">#E08f04</color>
 
-    <color name="paymentPassiveBorder">#CCCCCC</color>
+    <color name="paymentPassiveBorder">#EEEEEE</color>
 
     <color name="cardBitcoinSigning">#916c20</color>
     <color name="cardBitcoinHardware">#5b679c</color>
