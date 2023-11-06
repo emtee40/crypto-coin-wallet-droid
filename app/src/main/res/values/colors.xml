@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="bg">#F5F0EB</color>
+    <color name="bg">#F9F9FB</color>
     <color name="colorAccent">#111111</color>
 
     <color name="paymentAwait">#E08f04</color>

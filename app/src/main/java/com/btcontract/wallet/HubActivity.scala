@@ -526,7 +526,6 @@ class HubActivity extends BaseActivity with ExternalDataChecker { me =>
         swipeWrap.setLockDrag(isEphemeral)
 
         statusIcon setImageResource txStatusIcon(info)
-        nonLinkContainer setBackgroundResource R.drawable.border_gray
         setVisMany(info.description.label.isDefined -> labelIcon, true -> nonLinkContainer, true -> amountAndMeta, true -> statusIcon, false -> statusText, true -> setItemLabel)
         amount.setText(WalletApp.denom.directedWithSign(info.receivedSat.toMilliSatoshi, info.sentSat.toMilliSatoshi, cardOut, cardIn, cardZero, info.isIncoming).html)
         description.setText(info.description.label getOrElse txDescription(info).html)
